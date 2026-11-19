@@ -1,19 +1,19 @@
 {
-    "version": "0.1.0",
+    "version": "0.2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/beastawakens/pr-jump/releases/download/v0.1.0/pr-jump_0.1.0_windows_amd64.zip",
+            "url": "https://github.com/beastawakens/pr-jump/releases/download/v0.2.0/pr-jump_0.2.0_windows_amd64.zip",
             "bin": [
                 "pr-jump.exe"
             ],
-            "hash": "6a89b5466738a1adc08a4a802b5a64e867edfafc9736146e4e1afe463a188330"
+            "hash": "45858dd4a6ea30eaef5726e84adda691f114c2d15e5ddee45e825719d7d4f2f7"
         },
         "arm64": {
-            "url": "https://github.com/beastawakens/pr-jump/releases/download/v0.1.0/pr-jump_0.1.0_windows_arm64.zip",
+            "url": "https://github.com/beastawakens/pr-jump/releases/download/v0.2.0/pr-jump_0.2.0_windows_arm64.zip",
             "bin": [
                 "pr-jump.exe"
             ],
-            "hash": "3d1ffc01ec1259c827349f3a6a4366318bd8254059556e27828e9168b589bcbe"
+            "hash": "4b7741480bb673d6f998e201f44d7c83dc2536e5f8f88940bf8a1300197dacc8"
         }
     },
     "homepage": "https://github.com/beastawakens/pr-jump",
